@@ -16,7 +16,7 @@ body {
   left: 0;
   width: 100%;
   padding: 15px 200px;
-  background: #4b16ad;
+  background: #0dabc7;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 .nav,
@@ -28,7 +28,7 @@ body {
   justify-content: space-between;
 }
 a {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
 }
 .nav .logo {
@@ -141,7 +141,7 @@ a {
     position: absolute;
     top: 20px;
     right: 20px;
-    color: #fff;
+    color: #e00404;
     font-size: 20px;
     cursor: pointer;
   }
